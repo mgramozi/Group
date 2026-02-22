@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/2025-g7-ethics/static/css/main.fede6e81.css",
+    "main.js": "/2025-g7-ethics/static/js/main.890c90cc.js",
+    "index.html": "/2025-g7-ethics/index.html",
+    "main.fede6e81.css.map": "/2025-g7-ethics/static/css/main.fede6e81.css.map",
+    "main.890c90cc.js.map": "/2025-g7-ethics/static/js/main.890c90cc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fede6e81.css",
+    "static/js/main.890c90cc.js"
+  ]
+}
